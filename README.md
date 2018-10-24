@@ -3,3 +3,5 @@
 안녕
 
 git pull
+
+git push.
